@@ -3,7 +3,7 @@
    {
 "New_Version": "3.0.333.24747",
 
-"Dialog_Title": "Update Found v1.5",
+"Dialog_Title": "Update Found",
 "Title_Color" : "#FF000000",
 
 "Dialog_Message": "Hello ModderFamily mods User Thanks You Choosing Us we are happy to announce That Update Of this Mod is available So Please Click on Download Button to Download New
@@ -35,8 +35,8 @@ If you get any problem related to mod So Contacts us On Telegram @Modderfamilyow
 "isCancelable" : "true",
 
 "More_Button_Text_Color" : "#FF1B5AAC",
-"Website_Link" : "https://pastebin.com/raw/AJF6gWZs",
-"Share_Mod_Text" : "Hey I found a great mod.",
+"Website_Link" : "https://t.me/ModderFamily",
+"Share_Mod_Text" : "Hello bro I found a best mod of prime video so download now",
 
 
 "Dialog_Stroke_Color" : "#FF0B8B42",
