@@ -6,7 +6,25 @@
 "Dialog_Title": "Update Found v1.5",
 "Title_Color" : "#FF000000",
 
-"Dialog_Message": "Hello User,  There is an Update. Share our Mod",
+"Dialog_Message": "Hello ModderFamily mods User Thanks You Choosing Us we are happy to announce That Update Of this Mod is available So Please Click on Download Button to Download New
+
+Features
+
+Premium unlocked
+
+Ads removed
+
+Quality fixed
+
+Download video Fixed
+
+Bug fixed
+
+Auto login
+
+And some more features
+
+If you get any problem related to mod So Contacts us On Telegram @Modderfamilyowner",
 "Message_Color" : "#FF000000",
 
 "Okay_Button_Text" : "Download",
