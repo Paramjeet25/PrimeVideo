@@ -29,7 +29,7 @@ If you get any problem related to mod So Contacts us On Telegram @Modderfamilyow
 
 "Okay_Button_Text" : "Download",
 "Okay_Button_Text_Color" : "#FF0B8B42",
-"Download_Link" : "https://files.technicalatg.com/Og4hXpNHhd",
+"Download_Link" : "https://files.technicalatg.com/QMyEUdX68",
 
 "Cancel_Button_Text_Color" : "#FFF44336",
 "isCancelable" : "false",
