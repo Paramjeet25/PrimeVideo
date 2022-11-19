@@ -6,25 +6,7 @@
 "Dialog_Title": "Update Found",
 "Title_Color" : "#FF000000",
 
-"Dialog_Message": "Hello ModderFamily mods User Thanks You Choosing Us we are happy to announce That Update Of this Mod is available So Please Click on Download Button to Download New
-
-Features
-
-Premium unlocked
-
-Ads removed
-
-Quality fixed
-
-Download video Fixed
-
-Bug fixed
-
-Auto login
-
-And some more features
-
-If you get any problem related to mod So Contacts us On Telegram @Modderfamilyowner",
+"Dialog_Message": "we found some bug In app so please update your app  thaks and don't forget to join our telegram channel",
 "Message_Color" : "#FF000000",
 
 "Okay_Button_Text" : "Download",
