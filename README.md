@@ -11,7 +11,7 @@
 
 "Okay_Button_Text" : "Download",
 "Okay_Button_Text_Color" : "#FF0B8B42",
-"Download_Link" : "https://files.technicalatg.com/QRasO5",
+"Download_Link" : "https://files.technicalatg.com/UH8QCk",
 
 "Cancel_Button_Text_Color" : "#FFF44336",
 "isCancelable" : "true",
