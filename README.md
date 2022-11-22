@@ -14,7 +14,7 @@
 "Download_Link" : "https://files.technicalatg.com/QRasO5",
 
 "Cancel_Button_Text_Color" : "#FFF44336",
-"isCancelable" : "false",
+"isCancelable" : "true",
 
 "More_Button_Text_Color" : "#FF1B5AAC",
 "Website_Link" : "https://t.me/ModderFamily",
