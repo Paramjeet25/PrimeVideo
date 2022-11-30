@@ -11,7 +11,7 @@
 
 "Okay_Button_Text" : "Download",
 "Okay_Button_Text_Color" : "#FF0B8B42",
-"Download_Link" : "https://t.me/ModderFamily/395",
+"Download_Link" : "https://t.me/ModderFamily/402",
 
 "Cancel_Button_Text_Color" : "#FFF44336",
 "isCancelable" : "true",
