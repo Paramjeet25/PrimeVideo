@@ -1,7 +1,7 @@
    
    
    {
-"New_Version": "3.0.326.11945",
+"New_Version": "3.0.326.11946",
 
 "Dialog_Title": "Update Found",
 "Title_Color" : "#FF000000",
@@ -11,7 +11,7 @@
 
 "Okay_Button_Text" : "Download",
 "Okay_Button_Text_Color" : "#FF0B8B42",
-"Download_Link" : "https://t.me/ModderFamily/402",
+"Download_Link" : "https://t.me/Modderfamily/478",
 
 "Cancel_Button_Text_Color" : "#FFF44336",
 "isCancelable" : "true",
