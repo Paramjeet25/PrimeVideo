@@ -1,7 +1,7 @@
    
    
    {
-"New_Version": "3.0.334.21740",
+"New_Version": "3.0.334.21741",
 
 "Dialog_Title": "Update Found",
 "Title_Color" : "#FF000000",
@@ -11,7 +11,7 @@
 
 "Okay_Button_Text" : "Download",
 "Okay_Button_Text_Color" : "#FF0B8B42",
-"Download_Link" : "https://modshub.site/2023/02/17/prime-video-mod/",
+"Download_Link" : "https://m.easysky.in/z1M3Q8",
 
 "Cancel_Button_Text_Color" : "#FFF44336",
 "isCancelable" : "true",
