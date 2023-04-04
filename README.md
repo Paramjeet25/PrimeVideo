@@ -1,7 +1,7 @@
    
    
    {
-"New_Version": "3.0.334.21741",
+"New_Version": "Join @ModderFamilyofficial",
 
 "Dialog_Title": "Update Found",
 "Title_Color" : "#FF000000",
