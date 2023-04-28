@@ -6,12 +6,15 @@
 "Dialog_Title": "Update Found",
 "Title_Color" : "#FF000000",
 
-"Dialog_Message": "Hello guys sorry for this problem because of some chutiyas wo baar baar Logout kar rahe Thai app mai se so aab maine Android 12 ke Leyai aalag and android 11 tak ke Leyai aalag bana deya hai jiss se ab logout problem nhi aayege thanks for support",
+"Dialog_Message": "Hello guys now I'll give you all mod apk without link ☺️
+1.first click on get pin 
+2.complete link and last you will get code 
+3.Enter code while playing video and enjoy our mod ",
 "Message_Color" : "#FF000000",
 
-"Okay_Button_Text" : "Download",
+"Okay_Button_Text" : "Get pin",
 "Okay_Button_Text_Color" : "#FF0B8B42",
-"Download_Link" : "https://m.easysky.in/z1M3Q8",
+"Download_Link" : "https://m.easysky.in/iEupPs",
 
 "Cancel_Button_Text_Color" : "#FFF44336",
 "isCancelable" : "true",
